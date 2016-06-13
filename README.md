@@ -25,7 +25,7 @@ Extra Credit Description
 ------------------------
 I included the storyline in the webpage. 
 
-For this, I wrote a storyline for each movie, passed the movie_storyline strings to the create_movie_tiles_content function in fresh_tomatoes.py, then included an <h3> tag in the HTML to style the content. 
+For this, I wrote a storyline for each movie, passed the movie_storyline strings to the create_movie_tiles_content function in fresh_tomatoes.py, then included an "h3" tag in the HTML to style the content. 
 
 
 Miscellaneous
